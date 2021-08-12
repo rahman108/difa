@@ -1,0 +1,18 @@
+---
+title: "About"
+output:
+  html_document:
+    theme: united
+    highlight: tango
+---
+
+
+### Objective 
+The Data Integration in Food and Agriculture (DIFA) tool will provide dataset-specific information pertinent to accessing and utilizing the corresponding data and linking it with other relevant datasets. In this tool, we will generate easily consumable information that describes key attributes of data resources, including outcome variables and how they are measured; whether the data are publicly available or require a license, or have versions of public and licensed data; how researchers can access the data; a brief description of sampling methods; the structure of the data; and, opportunities and previous work done to link one data source to others.
+
+### Approach 
+To begin building this online tool, we will identify and document available data resources, both public and private, commonly used by agricultural and applied economists. The compilation of data sources will serve as the inputs for the online resource. 
+
+
+
+

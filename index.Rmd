@@ -1,0 +1,17 @@
+---
+title: DIFA Project
+output:
+  html_document:
+    theme: united
+    highlight: tango
+---
+
+## Problem Statement
+
+Policy-based research in food and agriculture requires a comprehensive analysis, using contextual, econometric, and disciplinary knowledge. Integrating desperate data allows researchers to have more complete information about the markets they study, the potential need for policy, and the intended and unintended impacts of suggested policies. However, the technical and logistical skills needed to build datasets that rely on the use of multiple disparate data sets may be a barrier for many applied economists. 
+
+
+
+
+
+
