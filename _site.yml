@@ -1,6 +1,6 @@
-name: "DIFA website"
+name: "DIFA"
 navbar:
-  title: "DIFA Website"
+  title: "DIFA"
   left:
     - text: 
       icon: fa-home fa-1.5x
