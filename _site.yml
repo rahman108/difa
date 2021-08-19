@@ -6,7 +6,16 @@ navbar:
       icon: fa-home fa-1.5x
       href: index.html
     - text: "About"
-      icon: fa-map-signs
-      href: about.html
+      icon: fa-book-open
+      menu:
+      - text: "Leadership Team"
+        icon: fa-map-signs
+        href: Leadership_team.html
+      - text: "Research Team"
+        icon: fa-map-signs
+        href: Research_team.html
+
     - text: "Events"
       href: Events.html
+    - text: "Activity"
+      href: activity.html

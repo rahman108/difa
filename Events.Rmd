@@ -19,10 +19,14 @@ output:
 library(knitr)
 library(readxl)
 library(kableExtra)
+options(knitr.table.format = "html", knitr.kable.NA = '') 
 rawdat <- read_excel("events.xlsx")
 kable(rawdat[1:6 ], align="l", escape=FALSE)%>%
 kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
 ```
+<br>  
+<br>  
+<br>  
 
 ### Day 2: October 8
 
@@ -30,6 +34,16 @@ kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
 library(knitr)
 library(readxl)
 rawdat2 <- read_excel("events2.xlsx")
-kable(rawdat2[1:7 ], align="l", escape=FALSE)%>%
+kable(rawdat2[1:6 ], align="l", escape=FALSE)%>%
 kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
+```
+<br>
+<br>
+
+#### Download the registration form 
+
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('PC52 Registration Form.pdf', text='Download Form')
+
 ```
