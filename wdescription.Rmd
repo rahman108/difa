@@ -1,0 +1,45 @@
+---
+title: 
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<br>
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+<p align="center">
+ <span style="text-decoration:underline"> <font size="5"> Evidence Based Policy for Agricultural and Applied Economists Virtual Workshop </font> </span>
+</p>
+
+
+<p align="center"><font size="5"> Day 1 (Part One): Friday, October 1, 2021, 12-5 pm ET </font> 
+</p>
+
+
+<p align="center"><font size="5"> Day 2 (Part Two): Friday, October 8, 2021, 12-5pm ET </font> 
+</p>
+
+Evidence-based policymaking is more essential than ever given many concurrent challenges facing society today. To tackle these policymaking challenges, applied economists can make strategic use of quantitative and qualitative data. Despite access to more data than ever before, no single dataset is sufficient for providing a comprehensive analysis or solution to many questions and problems. In these cases, researchers are forced to either do an incomplete analysis or attempt to link datasets (e.g., NHANES, CPS, ATUS, SNAP, IRI). Even before determining whether there is a need to link data, researchers must be familiar with the availability and attributes of different datasets a priori. Thus, detailed knowledge of data sources and training in data linkages are imperative for producing impactful research, even when contextual, econometric, and disciplinary knowledge is already present. 
+
+Please join us for this two-day virtual workshop, during which we begin to explore some of these roadblocks. During the workshop, participants will learn about innovations in data identification and linkages, and high-quality resources that have the potential for catalyzing new and emerging initiatives in the field from a knowledgeable set of panelists. 
+
+### Who Should Attend?
+
+Our intended audience is anyone interested in learning about opportunities for linking data sets often used by agricultural and applied economists. We have a rich agenda with speakers from multiple research areas within agricultural and applied economics. During the workshop, participants will experience a mix of research presentations that use state-of-the art data linkages, discussions of challenges and opportunities in data linkages, as well as several opportunities for hands-on learning experience.
+
+### Registration
+
+To register for the event, please complete the PC52 Registration form. Registered participants will receive an email confirmation with the details to join via Zoom.
+
+```{r echo=FALSE}
+xfun::pkg_load2(c("htmltools", "mime"))
+xfun::embed_file('PC52 Registration Form.pdf', text='Download Form')
+
+```

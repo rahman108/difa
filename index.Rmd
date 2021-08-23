@@ -2,7 +2,7 @@
 title: Welcome!!!
 output:
   html_document:
-    theme: united
+    theme: cerulean
     highlight: tango
 ---
 
