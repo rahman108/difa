@@ -1,0 +1,129 @@
+---
+title: "Research Team"
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("khyati.jpg")
+
+```
+</div>
+
+**Khyati Malik** is pursuing a PhD degree in Applied Economics in the Department of Agricultural, Environmental, and Development Economics at The Ohio State University. Her research interests involve urban, regional, environmental and energy economics. 
+
+https://aede.osu.edu/our-people/khyati-malik
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("rahman.jpg")
+
+```
+</div>
+
+**Mohammad Mashiur Rahman** is a Ph.D. candidate in economics departement at The University of New Mexico, Albuquerque. He is an applied microeconomist with a focus on environmental and natural resource economics and applied econo-
+metrics. He is specifically interested in the valuation of environmental services, management of natural resources,
+agricultural economics, and the policy implications for local administration by analyzing the economic data from
+rigorous statistical models. Theretofore, he has papers published at Water Resources and Economics, Journal of
+Environmental Economics and Policy, and Journal of Health Management.
+
+https://sites.google.com/view/mohammad-mashiur-rahman
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("tahir.jfif")
+
+```
+</div>
+
+**Muhammad Tahir Ali** is a Ph.D. Fulbright Scholar, Agricultural Economics Program, at the University of Nebraska Lincoln (UNL). His areas of interest are production economics, environmental economics, natural resource economics, and experimental economics. His dissertation research is focused on linking women empowerment in agriculture to household level crop efficiency; and investment in irrigation R & D and water efficiency of Pakistan. Before starting his Ph.D., he worked in the development sector for seven years in various positions with international organizations (USAID, DFID, JICA, and AUSAID).
+
+https://www.linkedin.com/in/muhammad-tahir-ali-0249a93a/
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("olabisi.jpg")
+
+```
+</div>
+
+**Olabisi Ekong** is an Experienced Agricultural Economist with a demonstrated history of working in the higher education industry. Skilled in quantitative, qualitative, and mixed research methods with research interest in Agricultural policy, international trade and impacts of Climate Change on Agriculture.
+
+https://linkedin.com/in/olabisi-ekong
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("richard.jpeg")
+
+```
+</div>
+
+**Richard Acquah-Sarpong** is a first year PhD student in the Applied Economics Department at Oregon State University, with Master’s degrees in Economics and Data Science from South Dakota State University and a Bachelor’s degree in Economics from the University of Cape Coast, Ghana. He is interested in the application of modern data science methods and economic theory to produce empirical research in understanding how agricultural and resource policy choices impact poverty and health outcomes in developing areas.
+
+

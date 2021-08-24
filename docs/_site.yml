@@ -1,0 +1,29 @@
+name: "DIFA"
+navbar:
+  title: "DIFA"
+  left:
+    - text: 
+      icon: fa-home fa-1.5x
+      href: index.html
+    - text: "About"
+      icon: fa-book-open
+      menu:
+      - text: "Leadership Team"
+        href: Leadership_team.html
+      - text: "Research Team"
+        href: Research_team.html
+      - text: "Partners"
+        href: partners.html
+
+    - text: "Events"
+      icon: fa-map-signs
+      menu:
+      - text: "Workshop Desciption"
+        href: wdescription.html
+      - text: "Workshop Day 1"
+        href: day1.html
+      - text: "Workshop Day 2"
+        href: day2.html
+        
+    - text: "Activity"
+      href: activity.html

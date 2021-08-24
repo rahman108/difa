@@ -1,0 +1,27 @@
+---
+title: Welcome!!!
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+ 
+
+The **Data Integration in Food and Agriculture (DIFA)** tool will provide dataset-specific information pertinent to accessing and utilizing the corresponding data and linking it with other relevant datasets. In this tool, we will generate easily consumable information that describes key attributes of data resources, including outcome variables and how they are measured; whether the data are publicly available or require a license, or have versions of public and licensed data; how researchers can access the data; a brief description of sampling methods; the structure of the data; and, opportunities and previous work done to link one data source to others.
+
+### Why?
+
+Policy-based research in food and agriculture requires a comprehensive analysis, using contextual, econometric, and disciplinary knowledge. Integrating desperate data allows researchers to have more complete information about the markets they study, the potential need for policy, and the intended and unintended impacts of suggested policies. However, the technical and logistical skills needed to build datasets that rely on the use of multiple disparate data sets may be a barrier for many applied economists.
+
+### Approach 
+To begin building this online tool, we will identify and document available data resources, both public and private, commonly used by agricultural and applied economists. The compilation of data sources will serve as the inputs for the online resource.
+
+
+
+

@@ -1,0 +1,111 @@
+---
+title: Leadership Team
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<br>
+<br>
+
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://sites.allegheny.edu/news/files/2018/01/darrouzet-1200x1200.jpg")
+
+```
+</div>
+
+
+**Dr. Amelia Finaret** is an Assistant Professor of Global Health Studies at Allegheny College, where she teaches food economics and nutrition. Dr. Finaret has experience working with international food and nutrition data for her research on child malnutrition, the linkages between agriculture and nutrition, statistical artifacts of data collection in international nutrition surveys, and missing data. Her recent work has been published in the American Journal of Clinical Nutrition, Annual Review of Resource Economics, The Journal of Nutrition, and Economics & Human Biology.
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://static.ehe.osu.edu/img/directory/150x200/hanks.46.jpg")
+
+```
+</div>
+
+
+**Dr. Andrew (Drew) Hanks** is an Assistant Professor in the Department of Human Sciences at The Ohio State University (OSU). Dr. Hanks focuses on consumer and household choices related to food, education, and finances. His methodological approaches range from field experimentation to analysis of large data sets. Given the interdisciplinary nature of his research, Dr. Hanks publishes in a variety of journals such as Food Policy, the American Journal of Agricultural Economics, the American Psychologist, and Pediatrics. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://www.ers.usda.gov/media/8953/andrea-carlson-web.jpg?format=jpg&quality=85")
+
+```
+</div>
+
+
+ 
+**Dr. Andrea (Andi) Carlson**, an economist in the Food Markets Branch of the Food Economics Division in USDA’s Economic Research Service, researches food prices, with an emphasis on their impact on healthy diets and organic food purchases. She is the project lead for the Linkages project which allows users to import nutrient and food composition data into USDA’s purchased scanner data and estimate individual food prices for dietary intake data. Her research interests include the affordability of healthy diets, tracking consumption over time, and examining organic food purchases and price premiums. Dr. Carlson joined ERS after 9 years with USDA’s Center for Nutrition Policy and Promotion (CNPP) where she was the project leader for the USDA Food Plans, CNPP Food Prices Database, and a major contributor to the Cost of Raising a Child.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://aaec.vt.edu/content/aaec_vt_edu/en/people/faculty/davis-george/jcr:content/bio-image.transform/l-medium/image.jpg")
+
+```
+</div>
+
+
+**Dr. George C. Davis** is a Professor at Virginia Tech in the Departments of Agricultural and Applied Economics and Human Nutrition, Foods, and Exercise. His research generally covers food demand, health outcomes, econometrics, and methodology. His main focus is on understanding how time allocation decisions affect nutrition policies. He has published in a wide variety of journals, such as the American Journal of Agricultural Economics, Food Policy, Appetite, The American Journal of Clinical Nutrition,  Economics and Philosophy and The Review of Economics and Statistics, to name a few. He is currently an editor for The Review of Economics of the Household and author of the award-winning book Food and Nutrition Economics: Fundamentals for Health Sciences (Oxford University Press 2016). 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style= "float:left;position: relative; right: 25px; top: -7px;">
+```{r echo=FALSE, out.width="200px", fig.align='left'}
+
+knitr::include_graphics("https://wpcarey.asu.edu/sites/default/files/styles/asu_isearch_profile/public/asu_isearch_photos/3153292.jpg?itok=uGyaUi-M")
+
+```
+</div>
+
+
+**Dr. Lauren Chenarides** is an Assistant Professor in the Morrison School of Agribusiness in the W. P. Carey Business School at Arizona State University. Dr. Chenarides has extensive experience in working with secondary, high-dimensional data sets to examine market structure, food access, and policy-oriented research questions. Her recent work has been published in Food Policy and Applied Economic Perspectives and Policy. 
+
+
+
+

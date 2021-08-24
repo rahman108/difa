@@ -1,0 +1,27 @@
+---
+title: 
+output:
+  html_document:
+    theme: cerulean
+    highlight: tango
+---
+
+<br>
+
+<p align="center">
+ <span style="text-decoration:underline"> <font size="5"> Evidence-Based Policy for Agricultural and Applied Economists Workshop Schedule </font> </span>
+</p>                  
+
+<br>                  
+
+<p align="center"><font size="5"> Day 1 (Part One): Friday, October 1, 2021, 12-5 pm ET </font> 
+</p>
+
+```{r echo=FALSE, results='asis'}
+library(knitr)
+library(readxl)
+library(kableExtra)
+options(knitr.table.format = "html", knitr.kable.NA = '') 
+rawdat <- read_excel("events.xlsx")
+kable(rawdat[1:6 ], align="l", escape=FALSE)%>%
+kable_styling(bootstrap_options = c("hover", "striped", "responsive"))
