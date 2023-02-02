@@ -1,0 +1,22 @@
+{
+    "datasets":[
+        "National Household Food Acquisition and Purchase Survey (FoodAPS)",
+        "Survey of Consumer Finances",
+        "American Community Survey",
+        "SafeGraph",
+        "FoodAPS",
+        "ACS",
+        "FADN",
+        "CPS",
+        "Irish National Farm Survey",
+        "Irish Census of Agriculture",
+        "Paying Agency administrative database",
+        "administrative database",
+        "administrative data",
+        "administrative database of the Paying Agency",
+        "Farm Accountancy Data Network (FADN)",
+        "linked data",
+        "Current Population Survey",
+        "Administrative data on SNAP receipts"
+    ]
+}

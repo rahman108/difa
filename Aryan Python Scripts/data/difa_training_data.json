@@ -1,0 +1,1212 @@
+[
+    [
+        "the administrative database of the paying agency contains the land use data and limited livestock numbers for all farms receiving direct payments.",
+        {
+            "entities": [
+                [
+                    4,
+                    48,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the fadn database contains a large accountancy dataset for a low number of farms.",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the income data is provided by the dairy farms in fadn sample in the larger region (sample).",
+        {
+            "entities": [
+                [
+                    50,
+                    54,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "for each farm in the population of the municipality the three most similar farms in the fadn sample in the larger region are selected.",
+        {
+            "entities": [
+                [
+                    88,
+                    92,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "kelly (2004) works out a method for re-weighting fadn sample farms to micro-regional census data.",
+        {
+            "entities": [
+                [
+                    49,
+                    53,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the two most important data input for the model are the irish national farm survey (fadn farms) and the irish census of agriculture.",
+        {
+            "entities": [
+                [
+                    56,
+                    82,
+                    "DATASET"
+                ],
+                [
+                    84,
+                    88,
+                    "DATASET"
+                ],
+                [
+                    104,
+                    131,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the income statistics either cannot be disaggregated to micro-regional level (agricultural accounts) or are not representative at this level (fadn).",
+        {
+            "entities": [
+                [
+                    142,
+                    146,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "for each farm in census the model finds the most similar farm in the fadn sample, for which all income and financing data are available.",
+        {
+            "entities": [
+                [
+                    69,
+                    73,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the confidentiality of the model is determined by the real similarity of the census farm and the chosen fadn sample farm.",
+        {
+            "entities": [
+                [
+                    104,
+                    108,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "so the statistical matching model selects for each farm in the census the best fitting fadn sample farm.",
+        {
+            "entities": [
+                [
+                    87,
+                    91,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "there are ca. 200,000 registered farms receiving direct payments, while fadn represents ca. 90,000 holdings exceeding 2 esu.",
+        {
+            "entities": [
+                [
+                    72,
+                    76,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "although data from 2007 is already available, 2006 data of the administrative database and fadn was used in the procedure.",
+        {
+            "entities": [
+                [
+                    63,
+                    86,
+                    "DATASET"
+                ],
+                [
+                    91,
+                    95,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "this type of matching is capable of estimating the income of the enterprises of farms in the administrative database.",
+        {
+            "entities": [
+                [
+                    93,
+                    116,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "comparing the total arable land in micro-regions from census and from the administrative database shows large differences.",
+        {
+            "entities": [
+                [
+                    74,
+                    97,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the administrative database does not contain the total production structure of the farms, but only the enterprises receiving direct payments.",
+        {
+            "entities": [
+                [
+                    4,
+                    27,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the statistical matching in this case means that for each enterprise of the farms in the administrative database the best fitting enterprise of a sample farm (with similar size and structure) was selected.",
+        {
+            "entities": [
+                [
+                    89,
+                    112,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "average soil quality of arable land (in administrative database average soil quality in the municipality)",
+        {
+            "entities": [
+                [
+                    40,
+                    63,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "although data from 2007 is already available, 2006 data of the administrative database and fadn was used in the procedure.",
+        {
+            "entities": [
+                [
+                    63,
+                    86,
+                    "DATASET"
+                ],
+                [
+                    91,
+                    95,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "it is possible to analyse and forecast the financial and income positions of farms in the census or in the administrative database by spatial micro-simulation models.",
+        {
+            "entities": [
+                [
+                    107,
+                    130,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in this paper, i first use administrative data on snap receipt and amounts linked to american community survey data from new york state to show that survey data can misrepresent the program in important ways.",
+        {
+            "entities": [
+                [
+                    27,
+                    46,
+                    "DATASET"
+                ],
+                [
+                    85,
+                    110,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in this paper, i first use administrative data on snap receipt and amounts linked to american community survey data from new york state to show that survey data can misrepresent the program in important ways.",
+        {
+            "entities": [
+                [
+                    27,
+                    46,
+                    "DATASET"
+                ],
+                [
+                    85,
+                    110,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in particular, i use administrative records on food stamp receipt and amounts received from new york state linked to the 2008-2010 acs to evaluate the targeting of the program and its effect on poverty.",
+        {
+            "entities": [
+                [
+                    131,
+                    134,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in particular, i use administrative records on food stamp receipt and amounts received from new york state linked to the 2008-2010 acs to evaluate the targeting of the program and its effect on poverty.",
+        {
+            "entities": [
+                [
+                    131,
+                    134,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the linked data reveal a non-monotone relation between income and underreporting, so common methods to correct for underreporting such as scaling up amounts or imputing receipt for additional households are unlikely to solve this problem.",
+        {
+            "entities": [
+                [
+                    4,
+                    15,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "however, the administrative records used to create the linked acs data for new york state are confidential by law and can only be accessed by researchers with special sworn status at the u.s. census bureau.",
+        {
+            "entities": [
+                [
+                    62,
+                    65,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "i examine the patterns of food stamp receipt using administrative records from new york state linked to the american community survey (acs).",
+        {
+            "entities": [
+                [
+                    108,
+                    133,
+                    "DATASET"
+                ],
+                [
+                    135,
+                    138,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "high rates of false negatives were also found in the 2001 predecessor of the acs (between 30 and 40 percent, see lynch et al., 2007; meyer, goerge and mittag, 2013), which led to a revision of the question in the final survey (hisnanick, loveless and chesnut, 2007).",
+        {
+            "entities": [
+                [
+                    77,
+                    80,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "i find that 26 percent of recipients do not report receipt in the 2008-2010 acs data i use below.",
+        {
+            "entities": [
+                [
+                    76,
+                    79,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "this is particularly desirable for the acs because it does not contain reported amounts for non-cash programs at all.",
+        {
+            "entities": [
+                [
+                    39,
+                    42,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "there is considerable interest in program amounts in the acs, for example, to compute poverty measures for sub-state areas (e.g., levitan and renwick, 2010).",
+        {
+            "entities": [
+                [
+                    57,
+                    60,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the data i use were created by linking administrative records on food stamp benefits from the new york state office of temporary and disability assistance to the new york state sample from the 2008-2010 acs.",
+        {
+            "entities": [
+                [
+                    203,
+                    206,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "for the acs, xr includes reported receipt only, since amounts are not reported.",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "estimates of selected parameter from the 2010 linked acs are presented in table a7.",
+        {
+            "entities": [
+                [
+                    53,
+                    56,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in this section i analyze the impact of the food stamp program in new york state according to different data sources: reports from the acs and cps as well as the restricted linked data.",
+        {
+            "entities": [
+                [
+                    135,
+                    138,
+                    "DATASET"
+                ],
+                [
+                    143,
+                    146,
+                    "DATASET"
+                ],
+                [
+                    173,
+                    184,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "i provide comparisons to the acs reports whenever possible.",
+        {
+            "entities": [
+                [
+                    29,
+                    32,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "since the acs does not include program amounts, i compare the analyses that require amounts to the cps annual social and economic supplement.",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "DATASET"
+                ],
+                [
+                    99,
+                    102,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "to match the reference period of the acs, i pool the two corresponding years of the cps.",
+        {
+            "entities": [
+                [
+                    37,
+                    40,
+                    "DATASET"
+                ],
+                [
+                    84,
+                    87,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "all years refer to acs survey years, so comparisons to aggregate numbers need to take into account that they include the previous calendar year as well.",
+        {
+            "entities": [
+                [
+                    19,
+                    22,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "there are two versions of the acs, a restricted internal version and the public use microdata sample (pums).",
+        {
+            "entities": [
+                [
+                    30,
+                    33,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "some differences between the simulated estimates and the linked data may be due to differences in the data, but i have repeated all analyses using the internal acs file.",
+        {
+            "entities": [
+                [
+                    57,
+                    68,
+                    "DATASET"
+                ],
+                [
+                    160,
+                    163,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the acs reports are more accurate, but still increase by 29 percent when taking misreporting into account.",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "it confirms that reports and administrative data differ substantially, that misreporting is more prevalent in the cps than in the acs and that the conditional density method closely reproduces the results from the linked data using public use data.",
+        {
+            "entities": [
+                [
+                    29,
+                    48,
+                    "DATASET"
+                ],
+                [
+                    114,
+                    117,
+                    "DATASET"
+                ],
+                [
+                    130,
+                    133,
+                    "DATASET"
+                ],
+                [
+                    214,
+                    225,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "both surveys suggest that less than half of the households below 50 percent of the poverty line participate in the food stamp program: 40.4 percent in the cps and 46.2 percent in the acs.",
+        {
+            "entities": [
+                [
+                    155,
+                    158,
+                    "DATASET"
+                ],
+                [
+                    183,
+                    186,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "while the acs understates the growth in recipients slightly, the cps suggests only a 21 percent increase in recipient households and only a 72 percent increase of total amounts received.",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "DATASET"
+                ],
+                [
+                    65,
+                    68,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "i use the parameter estimates of the conditional density from 2009 (see appendix table a8) to adjust estimates in the 2010 acs.",
+        {
+            "entities": [
+                [
+                    123,
+                    126,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "column (3) uses the unadjusted parameter estimates from new york state to predict food stamp receipt and amounts in the entire u.s. sample of the 2010 acs public use data.",
+        {
+            "entities": [
+                [
+                    151,
+                    154,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "as in table 2, the acs is closer to the extrapolation than the cps, but both suggest a much smaller program and a larger share of food stamp recipients in poverty than the extrapolated administrative data.",
+        {
+            "entities": [
+                [
+                    19,
+                    22,
+                    "DATASET"
+                ],
+                [
+                    63,
+                    66,
+                    "DATASET"
+                ],
+                [
+                    185,
+                    204,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in more extreme cases, important variables are missing from the data entirely, for example information on assets in the current population survey (cps).",
+        {
+            "entities": [
+                [
+                    120,
+                    145,
+                    "DATASET"
+                ],
+                [
+                    147,
+                    150,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in this section i analyze the impact of the food stamp program in new york state according to different data sources: reports from the acs and cps as well as the restricted linked data.",
+        {
+            "entities": [
+                [
+                    135,
+                    138,
+                    "DATASET"
+                ],
+                [
+                    143,
+                    146,
+                    "DATASET"
+                ],
+                [
+                    173,
+                    184,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "since the acs does not include program amounts, i compare the analyses that require amounts to the cps annual social and economic supplement.",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "DATASET"
+                ],
+                [
+                    99,
+                    102,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "while there may be some concern about the comparability due to factors such as higher non-response in the cps, it is a sample from the same population (after excluding group quarters).",
+        {
+            "entities": [
+                [
+                    106,
+                    109,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "to match the reference period of the acs, i pool the two corresponding years of the cps.",
+        {
+            "entities": [
+                [
+                    37,
+                    40,
+                    "DATASET"
+                ],
+                [
+                    84,
+                    87,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "summary statistics for both versions and the cps are provided in appendix tables a2-a6.",
+        {
+            "entities": [
+                [
+                    45,
+                    48,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the cps underestimates the total amount of food stamps received in new york state by 1.4 billion dollars, which leads research based on the cps reports to understate the impact of the program.",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "DATASET"
+                ],
+                [
+                    140,
+                    143,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the estimates from the linked data and the simulated pums estimates increase the number of beneficiaries in the cps by almost 50 percent.",
+        {
+            "entities": [
+                [
+                    23,
+                    34,
+                    "DATASET"
+                ],
+                [
+                    112,
+                    115,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "this leads both surveys to overstate the fraction of recipient households that are poor and the cps to understate the percentage of recipients moved out of poverty.",
+        {
+            "entities": [
+                [
+                    96,
+                    99,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "however, the number of recipient households is much lower in the survey data, so these figures do not capture the difference in the number of households moved out of poverty, which is 32 percent larger in the linked data than in the cps.",
+        {
+            "entities": [
+                [
+                    209,
+                    220,
+                    "DATASET"
+                ],
+                [
+                    233,
+                    236,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "it confirms that reports and administrative data differ substantially, that misreporting is more prevalent in the cps than in the acs and that the conditional density method closely reproduces the results from the linked data using public use data.",
+        {
+            "entities": [
+                [
+                    29,
+                    48,
+                    "DATASET"
+                ],
+                [
+                    114,
+                    117,
+                    "DATASET"
+                ],
+                [
+                    130,
+                    133,
+                    "DATASET"
+                ],
+                [
+                    214,
+                    225,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "both surveys suggest that less than half of the households below 50 percent of the poverty line participate in the food stamp program: 40.4 percent in the cps and 46.2 percent in the acs.",
+        {
+            "entities": [
+                [
+                    155,
+                    158,
+                    "DATASET"
+                ],
+                [
+                    183,
+                    186,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "while participation increases with income below the poverty line in all data sources, the cps data mask the decrease in average benefits received as income rises up to the poverty line: average amount received levels off at around $1700 per household below the poverty line according to survey reports.",
+        {
+            "entities": [
+                [
+                    90,
+                    93,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "this difference is mainly due to the high false negative rate in the cps.",
+        {
+            "entities": [
+                [
+                    69,
+                    72,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "as discussed above, the cps overstates the share of the snap budget spent below the poverty line, but this does not hold in absolute terms - the average amount received by households in deep poverty is understated by 32 percent in the survey data and the food stamp program really fills 30 percent of the poverty gap (after all cash transfers) as opposed to 21 percent in the cps.",
+        {
+            "entities": [
+                [
+                    24,
+                    27,
+                    "DATASET"
+                ],
+                [
+                    376,
+                    379,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "while the acs understates the growth in recipients slightly, the cps suggests only a 21 percent increase in recipient households and only a 72 percent increase of total amounts received.",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "DATASET"
+                ],
+                [
+                    65,
+                    68,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "according to the cps, the growth rate of the program was largest in the highest income category, both for the number of recipients and amounts received.",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in contrast, the survey reports understate growth below the poverty line, suggesting that the food stamp program was less effective than it actually was at countervailing the increase in poverty during the recession: the number of households lifted out of poverty when including food stamp in the income definition has increased 128 percent between 2008 and 2010, while the cps only indicates a 95 percent increase.",
+        {
+            "entities": [
+                [
+                    374,
+                    377,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "column (3) contains the ideal case of having current parameter estimates and column (4) the results that would have been obtained from the cps in the absence of validation data.",
+        {
+            "entities": [
+                [
+                    139,
+                    142,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the cps is not representative at the sub-state level except for large metropolitan statistical areas (msas), so in order to provide a fair comparison for the adjusted results, i also compare them to total dollars spent according to the bea for msas with more than half a million inhabitants.12",
+        {
+            "entities": [
+                [
+                    4,
+                    7,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the extrapolation based on the unadjusted density deviates from these numbers by only 33,857 households on average, which is less than a third of the average deviation in the cps and less than 10 percent of actual state-level participation.",
+        {
+            "entities": [
+                [
+                    175,
+                    178,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "as in table 2, the acs is closer to the extrapolation than the cps, but both suggest a much smaller program and a larger share of food stamp recipients in poverty than the extrapolated administrative data.",
+        {
+            "entities": [
+                [
+                    19,
+                    22,
+                    "DATASET"
+                ],
+                [
+                    63,
+                    66,
+                    "DATASET"
+                ],
+                [
+                    185,
+                    204,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the linked data allow researchers to examine questions that cannot be answered with administrative data alone and to obtain more accurate answers than from survey data alone.",
+        {
+            "entities": [
+                [
+                    4,
+                    15,
+                    "DATASET"
+                ],
+                [
+                    84,
+                    103,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the linked data reveal that in new york state alone, 1.4 billion dollars, a third of the total amount, paid to recipient households, is not reported in the survey data.",
+        {
+            "entities": [
+                [
+                    4,
+                    15,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the linked data reveal a non-monotone relation between income and underreporting, so common methods to correct for underreporting such as scaling up amounts or imputing receipt for additional households are unlikely to solve this problem.",
+        {
+            "entities": [
+                [
+                    4,
+                    15,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "however, the administrative records used to create the linked acs data for new york state are confidential by law and can only be accessed by researchers with special sworn status at the u.s. census bureau.",
+        {
+            "entities": [
+                [
+                    62,
+                    65,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the conditional density method described in this paper recovers the results from linked data accurately using only public infringing upon confidentiality.",
+        {
+            "entities": [
+                [
+                    81,
+                    92,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "i use the conditional density method to extrapolate across time within new york state and to the entire u.s. i can test how well extrapolation across time works, because the linked data cover multiple years.",
+        {
+            "entities": [
+                [
+                    174,
+                    185,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "even though direct tests show that the conditional density changes moderately over time, analyses based on the conditional density method are still closer to those based on the linked data than survey reports.",
+        {
+            "entities": [
+                [
+                    177,
+                    188,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "section 4 introduces the linked data.",
+        {
+            "entities": [
+                [
+                    25,
+                    36,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "section 7 uses the linked data to assess distributional effects of snap in new york state and shows that the conditional density method leads to the same conclusions.",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the method developed in this paper addresses these two problems: to solve the first problem, it allows researchers to obtain consistent estimates based on the public use data and parameter estimates from the linked data.",
+        {
+            "entities": [
+                [
+                    208,
+                    219,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "appendix table a1 reports the parameter estimates used in this correction, appendix table a2 provides summary statistics for the linked data.",
+        {
+            "entities": [
+                [
+                    129,
+                    140,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "section 7 presents evidence that the bias from misreporting matters substantively and the conditional density method solves the problem of access, since estimates based on the linked data and the conditional density method are virtually identical.",
+        {
+            "entities": [
+                [
+                    176,
+                    187,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "this research uses the survey of consumer finances data set to analyze the relationship between income and wealth.",
+        {
+            "entities": [
+                [
+                    23,
+                    50,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "the data used in this study is from the american community survey.",
+        {
+            "entities": [
+                [
+                    40,
+                    65,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "in conjunction with medical claims data, we use data from safegraph.",
+        {
+            "entities": [
+                [
+                    58,
+                    67,
+                    "DATASET"
+                ]
+            ]
+        }
+    ],
+    [
+        "we have used foodaps, acs and irish national farm survey datasets in this paper.",
+        {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "DATASET"
+                ],
+                [
+                    22,
+                    25,
+                    "DATASET"
+                ],
+                [
+                    30,
+                    56,
+                    "DATASET"
+                ]
+            ]
+        }
+    ]
+]
